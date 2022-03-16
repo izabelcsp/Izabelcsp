@@ -11,7 +11,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="imagem-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="imagem-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/101677367/158661866-5a6e5b7a-d2b7-4684-b205-2d7519c549d3.png">
+    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/101677367/158675952-f6de65de-3baa-4f00-8e80-ff8ceb6ce3f5.gif">
   
 </div>
   
