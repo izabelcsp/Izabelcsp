@@ -1,16 +1,24 @@
-### Hi there 👋
+## Olá! Eu sou a Izabel Cristina 
 
-<!--
-**izabelcsp/Izabelcsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Atualmente estou aprendendo HTML5 e CSS3
+- 😄 Pronomes: ela/dela
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/izabelcsp">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=izabelcsp&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izabelcsp&layout=compact&langs_count=7&theme=synthwave"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="imagem-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="imagem-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/101677367/158661866-5a6e5b7a-d2b7-4684-b205-2d7519c549d3.png">
+</div>
+  
+   ##
+  
+ <div>
+   
+   ![Snake animation](https://github.com/izabelcsp/izabelcsp/blob/output/github-contribution-grid-snake.svg)
+   
+ </div>
+ 
